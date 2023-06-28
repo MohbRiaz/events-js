@@ -94,45 +94,9 @@ p{
     border-radius: 6px;
 }
 
-#one{
+.thumbnail{
     margin: 5px;
-    width: 100%;
-    height: 30%;
-    cursor: pointer;
-    padding: 4px;
-    border-radius: 6px;
-}
-
-#two{
-    margin: 5px;
-    width: 100%;
-    height: 30%;
-    cursor: pointer;
-    padding: 4px;
-    border-radius: 6px;
-}
-
-#three{
-    margin: 5px;
-    width: 100%;
-    height: 30%;
-    cursor: pointer;
-    padding: 4px;
-    border-radius: 6px;
-}
-
-#four{
-    margin: 5px;
-    width: 100%;
-    height: 30%;
-    cursor: pointer;
-    padding: 4px;
-    border-radius: 6px;
-}
-
-#five{
-    margin: 5px;
-    width: 100%;
+    width: 80px;
     height: 30%;
     cursor: pointer;
     padding: 4px;
